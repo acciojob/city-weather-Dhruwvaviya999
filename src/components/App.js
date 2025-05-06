@@ -1,13 +1,4 @@
-
-import React from "react";
-import './../styles/App.css';
-
-const App = () => {
-  return (
-    <div>
-        {/* Do not remove the main div */}
-
-        import React, { useState } from "react";
+import React, { useState } from "react";
 
 const API_KEY = "e467712b257e418838be97cc881a71de";
 
@@ -57,8 +48,3 @@ function App() {
 }
 
 export default App;
-    </div>
-  )
-}
-
-export default App
